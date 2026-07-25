@@ -15,6 +15,39 @@ A vibrant, digital Pookalam (traditional floral carpet from Kerala, India) creat
 
 Make sure you have Python installed on your system. The `turtle` and `math` modules are part of the Python Standard Library, so no additional installations are required.
 
+## Installation & Running
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Pavi-thra-Mohan/Pookalam-using-Python-Turtle.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Pookalam-using-Python-Turtle
+```
+
+3. (Optional) Create and activate a virtual environment:
+
+```bash
+python3 -m venv .venv
+# macOS / Linux
+source .venv/bin/activate
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+```
+
+4. Run the script:
+
+```bash
+python TurtlePookalam.py
+# or on systems where python -> Python 2.x:
+python3 TurtlePookalam.py
+```
+
+
    
 ## 📐 How it Works
 
