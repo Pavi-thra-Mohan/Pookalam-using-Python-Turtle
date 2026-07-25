@@ -1,10 +1,10 @@
 # Turtle Pookalam (Onam Floral Carpet)
 
-A vibrant, digital Pookalam (traditional floral carpet from Kerala, India) created using Python's `turtle` graphics library. This project programmatically layers geometric patterns—including circles, concentric triangles, squares, and hexagons to celebrate the festival of Onam.
+A vibrant, digital Pookalam (traditional floral carpet from Kerala, India) created using Python's `turtle` graphics library.
 
 ## 🌟 Features
 
-* **Layered Geometry:** Generates complex patterns using precise mathematical formulas 
+* **Layered Geometry:** Generates patterns using precise mathematical formulas 
 * **Traditional Color Palette:** Uses rich festive colors like maroon, orange, yellow, and green.
 * **Dynamic Scaling:** Structures shapes in descending sizes to create a traditional layered rug appearance.
 * **Festive Greeting:** Displays a stylized "Happy Onam!" message upon completion.
@@ -29,7 +29,7 @@ Make sure you have Python installed on your system. The `turtle` and `math` modu
    
 3. **Run the script:**
    ```bash
-   python TurtlePookalam_Pavithra.py
+   python TurtlePookalam.py
    
 ## 📐 How it Works
 
